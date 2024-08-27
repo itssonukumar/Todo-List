@@ -26,7 +26,7 @@ function removeActivity(i){
 
 
 function removeAll(){
-    setlistData([]);
+    setlistData([])
 }
 
 
